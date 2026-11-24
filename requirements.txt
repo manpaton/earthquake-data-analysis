@@ -1,0 +1,8 @@
+requests
+kafka-python-ng
+pandera
+pandas
+numpy
+matplotlib
+seaborn
+scipy
